@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by Me</generator>
+    <title>Test1</title>
+    <link>www.reddit.com</link>
+    <description>Prueba de clase</description>
+    <language>es</language>
+    <item>
+      <title>Test1</title>
+      <pubDate>Mon, 5 Jun 2017 11:57:55 +0200</pubDate>
+      <link>https://www.reddit.com/r/ffxiv</link>
+      <category>FFXIV</category>
+      <description><![CDATA[FFXIV]]></description>
+    </item>
+    <item>
+      <title>Test2</title>
+      <pubDate>Mon, 5 Jun 2017 11:52:26 +0200</pubDate>
+      <link>https://www.reddit.com/r/ffxiv/comments/6fbfqx/lets_talk_about_monk/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=ffxiv</link>
+      <category>Let's talk about Monk</category>
+      <description><![CDATA[Let's talk about Monk]]></description>
+    </item>
+    <item>
+      <title>Test3</title>
+      <pubDate>Mon, 5 Jun 2017 11:51:37 +0200</pubDate>
+      <link>https://www.reddit.com/r/ffxiv/comments/6f76zy/the_ffxiv_dev_team_changes_over_time/</link>
+      <category>The FFXIV Dev Team - Changes over time</category>
+      <description><![CDATA[The FFXIV Dev Team - Changes over time]]></description>
+    </item>
+    <item>
+      <title>Test4</title>
+      <pubDate>Mon, 5 Jun 2017 11:49:03 +0200</pubDate>
+      <link>https://www.reddit.com/r/ffxiv/comments/6fa2y1/drk_dps_40_vs_357_comparison_with_data/</link>
+      <category>DRK DPS 4.0 vs. 3.57 Comparison (with Data)</category>
+      <description><![CDATA[DRK DPS 4.0 vs. 3.57 Comparison (with Data)]]></description>
+    </item>
+    <item>
+      <title>Test5</title>
+      <pubDate>Mon, 5 Jun 2017 11:43:50 +0200</pubDate>
+      <link>https://www.reddit.com/r/ffxiv/comments/6f9zhr/ninja_gifs_rip_edition/</link>
+      <author>blanca.alvarez.marin@alumnos.fesac.es</author>
+      <category>Ninja GIFs - RIP Edition</category>
+      <description><![CDATA[Ninja GIFs - RIP Edition]]></description>
+    </item>
+  </channel>
+</rss>
